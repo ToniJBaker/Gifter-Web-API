@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxnqpvfyo9FTl9X0xgk5ghF8zXWcxmJMyWHI0ehnSEBlt8VsYpl+ZPmc8mjGz94ZFhcww12dvjHWuBFWS1WxWA==",
+  "dgSpecHash": "d8KQI0bJYoLizERTEL0E3BQtVT7Qoqt7lpXX1XZOkud/xq2aKIl/BQ5Msnvv56KZJrORO63QOmRNfgNGhRVTHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\newforce\\workspace\\server-side\\Gifter\\Gifter\\Gifter.csproj",
+  "projectFilePath": "C:\\Users\\newforce\\workspace\\server-side\\Gifter-Web-API\\Gifter\\Gifter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\newforce\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\newforce\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\newforce\\workspace\\server-side\\Gifter\\Gifter\\Gifter.csproj": {}
+    "C:\\Users\\newforce\\workspace\\server-side\\Gifter-Web-API\\Gifter\\Gifter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\newforce\\workspace\\server-side\\Gifter\\Gifter\\Gifter.csproj": {
+    "C:\\Users\\newforce\\workspace\\server-side\\Gifter-Web-API\\Gifter\\Gifter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\newforce\\workspace\\server-side\\Gifter\\Gifter\\Gifter.csproj",
+        "projectUniqueName": "C:\\Users\\newforce\\workspace\\server-side\\Gifter-Web-API\\Gifter\\Gifter.csproj",
         "projectName": "Gifter",
-        "projectPath": "C:\\Users\\newforce\\workspace\\server-side\\Gifter\\Gifter\\Gifter.csproj",
+        "projectPath": "C:\\Users\\newforce\\workspace\\server-side\\Gifter-Web-API\\Gifter\\Gifter.csproj",
         "packagesPath": "C:\\Users\\newforce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\newforce\\workspace\\server-side\\Gifter\\Gifter\\obj\\",
+        "outputPath": "C:\\Users\\newforce\\workspace\\server-side\\Gifter-Web-API\\Gifter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\newforce\\AppData\\Roaming\\NuGet\\NuGet.Config",
